@@ -12,8 +12,8 @@ public class TipeData {
         alamat = "Batuphat Barat";
         tinggibadan = 157;
         usia = 20;
-        jk = "p";
-        beratbadan = "51.8f";
+        jk = 'p';
+        beratbadan = 51.8f;
 
         System.out.println("nama:" + nama);
         System.out.println("alamat:" + alamat);
@@ -22,4 +22,5 @@ public class TipeData {
         System.out.println("jk:" + jk);
         System.out.println("beratbadan:" + beratbadan);
     }
+}
 
