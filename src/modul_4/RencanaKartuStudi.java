@@ -54,7 +54,7 @@ public class RencanaKartuStudi {
     // Menampilkan KRS
     public void tampilkanKRS() {
         System.out.println("===========================================");
-        System.out.println("|         KARTU RENCANA STUDI (KRS)         |");
+        System.out.println("|         KARTU RENCANA STUDI (KRS)       |");
         System.out.println("===========================================");
         System.out.println("Nama Mahasiswa: " + mahasiswa.getNama());
         System.out.println("NPM           : " + mahasiswa.getNim());
